@@ -40,4 +40,4 @@ myAccount.deposit(500)
     console.log(message);
     myAccount.accountInfo();
   })
-  .catch(error => console.error(error));
+  .catch(error => console.eror)
